@@ -41,11 +41,11 @@ namespace Лаба_2_2_Сsh
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(338, 22);
+            this.label1.Location = new System.Drawing.Point(32, 25);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(79, 20);
+            this.label1.Size = new System.Drawing.Size(397, 20);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Задание 2";
+            this.label1.Text = "Дано предложение. Определить долю (в %) букв в нем.";
             // 
             // label2
             // 
@@ -113,7 +113,7 @@ namespace Лаба_2_2_Сsh
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Задание 2";
             this.ResumeLayout(false);
             this.PerformLayout();
 
